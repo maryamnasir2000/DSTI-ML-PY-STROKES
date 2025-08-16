@@ -1,0 +1,7 @@
+# ignore checkpoints
+.ipynb_checkpoints
+
+# ignore environments
+.venv
+.env
+
